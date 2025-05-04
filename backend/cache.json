@@ -1,0 +1,49 @@
+{
+  "PEAFSGJPY": {
+    "items": [
+      {
+        "currency": "jpy",
+        "position": 3800999,
+        "shortname": "GlobalAccess Japan Fund M Dis JPY",
+        "cost_price": 240.0,
+        "security": "0P000025RM.T"
+      },
+      {
+        "currency": "sgd",
+        "position": 700000,
+        "shortname": "Schroder Singapore Trust SGD",
+        "cost_price": 4.07,
+        "security": "0P0000I116.SI"
+      },
+      {
+        "currency": "sgd",
+        "position": 800000,
+        "shortname": "LionGlobal Japan Growth SGD",
+        "cost_price": 1.417,
+        "security": "0P00006G04.SI"
+      },
+      {
+        "currency": "sgd",
+        "position": 8000000,
+        "shortname": "AIA Japan Balanced",
+        "cost_price": 1.45,
+        "security": "0P00009111.SI"
+      },
+      {
+        "currency": "sgd",
+        "position": 1000000,
+        "shortname": "Nikko AM Shenton Japan SGD",
+        "cost_price": 1.75,
+        "security": "0P00006G1U.SI"
+      },
+      {
+        "currency": "jpy",
+        "position": 8000,
+        "shortname": "Man Jap Core Alpha Equity JPY",
+        "cost_price": 18829.0,
+        "security": "0P000124CL.T"
+      }
+    ],
+    "time": 1746172160.26278
+  }
+}
