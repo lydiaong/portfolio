@@ -1,0 +1,62 @@
+[
+  {
+    "cost_price": 2.16,
+    "currency": "sgd",
+    "position": 3800999,
+    "shortname": "GlobalAccess Japan Fund M Dis JPY",
+    "security": "0P000025RM.T",
+    "total_cost": 8201035.442399999,
+    "closing_price": 2.31,
+    "total_market_value": 8789733.10324028
+  },
+  {
+    "cost_price": 4.07,
+    "currency": "sgd",
+    "position": 700000,
+    "shortname": "Schroder Singapore Trust SGD",
+    "security": "0P0000I116.SI",
+    "total_cost": 2849000,
+    "closing_price": 4.44,
+    "total_market_value": 3110099.9999999995
+  },
+  {
+    "cost_price": 1.42,
+    "currency": "sgd",
+    "position": 800000,
+    "shortname": "LionGlobal Japan Growth SGD",
+    "security": "0P00006G04.SI",
+    "total_cost": 1133600,
+    "closing_price": 1.46,
+    "total_market_value": 1165600
+  },
+  {
+    "cost_price": 1.45,
+    "currency": "sgd",
+    "position": 8000000,
+    "shortname": "AIA Japan Balanced",
+    "security": "0P00009111.SI",
+    "total_cost": 11600000,
+    "closing_price": 1.51,
+    "total_market_value": 12120000
+  },
+  {
+    "cost_price": 1.75,
+    "currency": "sgd",
+    "position": 1000000,
+    "shortname": "Nikko AM Shenton Japan SGD",
+    "security": "0P00006G1U.SI",
+    "total_cost": 1750000,
+    "closing_price": 1.92,
+    "total_market_value": 1922500
+  },
+  {
+    "cost_price": 169.27,
+    "currency": "sgd",
+    "position": 8000,
+    "shortname": "Man Jap Core Alpha Equity JPY",
+    "security": "0P000124CL.T",
+    "total_cost": 1354181.68,
+    "closing_price": 169.27,
+    "total_market_value": 1354181.68
+  }
+]

@@ -25,9 +25,10 @@
 ## Set Up
 - Download and install uv from https://docs.astral.sh/uv/getting-started/installation/
 - Run `uv venv` to create venv
-- Run `source .venv/bin/activate` to start venv
+- Run `source .venv/bin/activate` for mac/linux to start venv or `.venv\Scripts\activate` for windows
 - Run `uv sync` to download dependencies
 - Run `uv run fastapi dev` to start the api running on local host port 8000
 
 ### Notes
--  If you prefer not to use DynamoDB, a mock dataset is available at `backend/setup/portfolio.json`. Update the `get_portfolio_securities` function in `backend/app/helper.py` to use this data instead.(Refer to .screenshot/dynamodb_mock_data.png)
+-  If you do not wish to deploy a DynamoDB, a mock dataset is available at `backend/setup/portfolio.json`. Update the `get_portfolio_securities` function in `backend/app/helper.py` to use this data instead.(Refer to `screenshot/mock_db_data.png`)
+- A `cache.json` can be found in this directory - This is mainly used for a caching mechanism setup in `app/cache.py`. Deleting the current cache.json will not affect the functionality. A new cache.json will be created when you hit the API again.

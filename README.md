@@ -31,13 +31,14 @@ capital_group
 - AWS CLI configured with credentials
 - Terraform (optional, for infrastructure management)
 
-### Steps
+### Steps to start application
 1. Deploy AWS DynamoDB (Update the region accordingly) [Optional]
 
     If you want to use the actual DynamoDB service:\
         - Follow the README.md in the infrastructure directory
 
-    **Alternative**: If you prefer not to use DynamoDB, a mock dataset is available at `backend/setup/portfolio.json`. Update the `get_portfolio_securities` function in `backend/app/helper.py` to use this data instead.(Refer to .screenshot/dynamodb_mock_data.png)
+    **Alternative**: 
+    - If you do not wish to deploy a DynamoDB, a mock dataset is available at `backend/setup/portfolio.json`. Update the `get_portfolio_securities` function in `backend/app/helper.py` to use this data instead.(Refer to `screenshot/mock_db_data.png`)
 
 2. Start the FastAPI backend `uv run fastapi dev`
     - The API will be available at http://localhost:8000
